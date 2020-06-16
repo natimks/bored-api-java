@@ -11,6 +11,7 @@ public class Activity {
     private String type;
     private String link;
     private String key;
+    private String hour;
     private double price;
     private int participants;
 
